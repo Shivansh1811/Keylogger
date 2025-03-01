@@ -1,4 +1,4 @@
-# Python Keylogger - Production Level
+# Python Keylogger
 
 ## 📌 Project Overview
 This is a **Python-based keylogger** designed for cybersecurity research and ethical security analysis. The script records keystrokes in the background and saves them to a log file (`keylog.txt`).
